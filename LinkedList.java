@@ -162,4 +162,8 @@ public class LinkedList {
         }
         return result;
     }
+    //return linkedlist size
+    public int size(){
+        return this.size();
+    }
 }
